@@ -1,4 +1,4 @@
-can't open file 'C:\\Swiggy_restaurant_recommendations-main\\Scripts\\python.exe'
+
 # 🍽️ Swiggy’s Restaurant Recommendation System using Streamlit
 
 # Project Title
